@@ -1,0 +1,4 @@
+
+# Course Outline
+
+An introduction to concepts of programming, using the Haskell functional programming language, and to concepts of computation and specification, using finite-state machines and propositional logic. The use of sets, functions and relations to describe models of logic and computation. Programming using functions and data structures, including lists and trees, equational reasoning, case analysis, recursion, higher-order functions, algebraic and abstract data types. Finite-state machines as a basic model of computation: deterministic and non-deterministic automata; regular expressions; acceptors; structured design of finite state machines. Propositional logic: truth tables; satisfiability; deduction. Applications from different areas will be used to illustrate and motivate the material.
